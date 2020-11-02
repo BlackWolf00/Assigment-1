@@ -2,12 +2,14 @@
 
 Gelati:
 
-	[Banana Split](banana_split.md): 9.00 €
+	Banana Split: 9.00 €
 
-	[Coppa Nafta](coppa_nafta.md): 8.00 €
+	Coppa Nafta: 8.00 €
 
 Budini:
 
-	[Biancaneve] (biancaneve.md): 10.00 €
+	Biancaneve: 10.00 €
+	
+	Pinguino: 6.00 €
 
 Gelateria Padovana
